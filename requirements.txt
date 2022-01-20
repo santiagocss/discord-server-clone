@@ -1,0 +1,5 @@
+colorama
+discord
+requests
+
+#Thanks for using.
