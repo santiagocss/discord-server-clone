@@ -3,6 +3,11 @@
   <p>
   <a href="https://ibb.co/9gXYTYQ"><img src="https://i.pinimg.com/originals/22/26/a5/2226a53e0be2f56c78982ae08f493f3c.jpg" width="546" alt="Discordclone" border="0"></a>
   </p>
+  
+https://www.youtube.com/watch?v=GdQm0q6a28Q
+
+  
+
   <br />
   <p>
     <a href="https://github.com/santiagocss/discord-server-clone"><img src="https://img.shields.io/npm/v/discord.js.svg?maxAge=3600" alt="NPM version" /></a>
