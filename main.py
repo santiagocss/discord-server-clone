@@ -35,14 +35,14 @@ intents.members = True
 async def on_ready():
     print('------')
     print('{}\n[>] {} Selfbot running... {}'.format(Fore.RESET, Fore.LIGHTYELLOW_EX, Fore.RESET))
-    print('{}\n[>] {} Command:{} {}sall\n'.format(Fore.RESET, Fore.LIGHTYELLOW_EX, Fore.RESET, prefix))
+    print('{}\n[>] {} Command:{} {}copy\n'.format(Fore.RESET, Fore.LIGHTYELLOW_EX, Fore.RESET, prefix))
     print('     - Logged in as ' + client.user.name)
     print('     - User ID: ' + str(client.user.id))
     print('\n------\n')
 
 
 @client.command()
-async def sall(ctx): 
+async def copy(ctx): 
     await ctx.message.delete()
     wow = await client.create_guild(f'backup-{ctx.guild.name}')
     await asyncio.sleep(4)
